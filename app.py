@@ -21,7 +21,7 @@ if st.button(" Изпрати"):
     if q1 == "да":
         st.success("1️ Супер!")
     else:
-        st.warning("1️ Ще го харесаш!")
+        st.warning("1️ Skill Issue!")
     if q2 > 10:
         st.success("2️ Голямо число")
     else:
